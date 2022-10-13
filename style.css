@@ -1,0 +1,27 @@
+*
+{
+    margin :0;
+}
+
+#top
+{
+    background-color: #790252;
+    height: 100vh;
+    width: 100wh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#wrap
+{   
+    background-color: #FBF2CF;
+    height: 300px;
+    width:300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 14px 2px 14px 16px rgba(0,0,0,0.75);
+    
+}
